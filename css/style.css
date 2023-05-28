@@ -1,0 +1,10 @@
+@charset 'UTF-8';
+body{
+    background-color: rgb(241, 236, 236);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.primeiroteste {
+    color: blue;
+}
